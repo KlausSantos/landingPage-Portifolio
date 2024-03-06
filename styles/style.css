@@ -23,7 +23,7 @@ body{
 }
 
 .cabecalho {
-    padding: 2% 0% 0% 25%;
+    padding: 2% 0% 0% 15%;
 
 }
 
@@ -41,7 +41,7 @@ body{
 
 
 .apresentacao {
-    padding: 5% 25%;
+    padding: 5% 15%;
     display: flex;
     align-items: center;
     justify-content: space-between;
